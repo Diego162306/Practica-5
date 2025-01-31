@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "latitude": -3.9876,
+    "longitude": -79.2045,
+    "saldoDsp": 15000.5,
+    "estado": true,
+    "banco": "Banco de Loja"
+  },
+  {
+    "id": 2,
+    "latitude": -4.5478,
+    "longitude": -79.1212,
+    "saldoDsp": 20000.0,
+    "estado": true,
+    "banco": "Banco Guayaquil"
+  },
+  {
+    "id": 3,
+    "latitude": 6.9876,
+    "longitude": 9.2045,
+    "saldoDsp": 100000.5,
+    "estado": true,
+    "banco": "Banco del Austro"
+  },
+  {
+    "id": 4,
+    "latitude": 5.9876,
+    "longitude": 8.2045,
+    "saldoDsp": 50000.5,
+    "estado": true,
+    "banco": "Banco de Pichincha"
+  },
+  {
+    "id": 5,
+    "latitude": 4.9876,
+    "longitude": 7.2045,
+    "saldoDsp": 25000.5,
+    "estado": true,
+    "banco": "Banco de Guayaquil"
+  },
+  {
+    "id": 6,
+    "latitude": 3.9876,
+    "longitude": 6.2045,
+    "saldoDsp": 30000.5,
+    "estado": true,
+    "banco": "BanEcuador"
+  },
+  {
+    "id": 7,
+    "latitude": 2.9876,
+    "longitude": 5.2045,
+    "saldoDsp": 35000.5,
+    "estado": true,
+    "banco": "Banco de Pichincha"
+  },
+  {
+    "id": 8,
+    "latitude": 1.9876,
+    "longitude": 4.2045,
+    "saldoDsp": 40000.5,
+    "estado": true,
+    "banco": "Banco de Guayaquil"
+  },
+  {
+    "id": 9,
+    "latitude": 0.9876,
+    "longitude": 3.2045,
+    "saldoDsp": 45000.5,
+    "estado": true,
+    "banco": "Banco del Austro"
+  },
+  {
+    "id": 10,
+    "latitude": -0.9876,
+    "longitude": 2.2045,
+    "saldoDsp": 50000.5,
+    "estado": true,
+    "banco": "Banco de Loja"
+  }
+]
